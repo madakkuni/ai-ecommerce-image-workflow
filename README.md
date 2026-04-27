@@ -1,4 +1,4 @@
-# 🚀 AI-Powered E-commerce Image Generation Workflow
+# 🚀 E-commerce Image Generation Workflow
 
 ![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-ff6d5a?style=for-the-badge&logo=n8n&logoColor=white)
 ![Google Vertex AI](https://img.shields.io/badge/Vertex_AI-Gemini_Models-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
